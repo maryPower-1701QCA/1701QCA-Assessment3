@@ -74,15 +74,19 @@ https://makecode.microbit.org/projects/heads-guess
 ## Process documentation ##
 <!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
 
-This should have quite a lot of information! It will likely include most of the process documentation from assessment 2 which can be copied and pasted here.
+## Design Process Discussion ##
 
-Use subheadings to structure this information. See https://guides.github.com/features/mastering-markdown/ for details of how to insert subheadings.
+*Discover: I had to discover ways to achieve my idea of making a fun game involving a random picking of ingredients. I really struggled to think of many different ways to achieve this idea.*
 
-There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
+*Define:* I had to really think of how to design the list or the type of machine that would pick the ingredients, and i had to picture different solutions in my head.*
+
+*Develop:* I ended up talking one-on-one with my tutor, Ged as I was really stuck to come up with solutions. He gave me the idea of a spinning wheel and arrow that is attached to a motor, and depending on how long the wheel spins for, it could give me different ingredients each time. He was talking about Masterchef, so I took that as another inspiration. He also helped me to come up with the final code, so that gave me a lot to work with. 
+
+*Deliever:* I ended up having a working code and a design that worked for this idea. So I was confident and ready to start finishing this project.
 
 ## Final code ##
 
-<!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
+![Image](code.png)
 
 ## Design process discussion ##
 <!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
