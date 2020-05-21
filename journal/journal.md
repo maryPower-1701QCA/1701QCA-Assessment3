@@ -1,8 +1,4 @@
-# 1701QCA Final project journal: *Insert your name here*
-
-<!--- As for other assessments, fill out the following journal sections with information relevant to your project. --->
-
-<!--- Markdown reference: https://guides.github.com/features/mastering-markdown/ --->
+# 1701QCA Final project journal: *Mary-Claire Power*
 
 ## Related projects ##
 <!--- Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing. --->
@@ -10,10 +6,9 @@
 ### *Insert name of related project here* ###
 
 <!--- Modify code to insert image of related project below --->
-![Image](missingimage.png)
+![Image](maxresdefault.jpg)
 
-<!--- Fill out name and link to related project in the code below. --->
-[Name of related project](https://[URL of related project])
+https://makecode.microbit.org/lessons/spinner
 
 <!--- Include information about why this project is related to yours. --->
 
