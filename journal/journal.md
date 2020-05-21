@@ -2,7 +2,7 @@
 
 ### *Spinner Lesson* ###
 
-![Image](steak.png)
+![Image](bin.png)
 
 https://makecode.microbit.org/lessons/spinner
 
