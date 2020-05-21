@@ -1,8 +1,8 @@
 # 1701QCA Final project journal: *Mary-Claire Power*
 
-### *Spinner Lesson* ###
+### *Magic Button Trick* ###
 
-![Image](bin.png)
+![Image](capture.jpg)
 
 https://makecode.microbit.org/lessons/spinner
 
