@@ -74,23 +74,21 @@ https://makecode.microbit.org/projects/heads-guess
 ## Process documentation ##
 <!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
 
-## Design Process Discussion ##
-
-*Discover: I had to discover ways to achieve my idea of making a fun game involving a random picking of ingredients. I really struggled to think of many different ways to achieve this idea.*
-
-*Define:* I had to really think of how to design the list or the type of machine that would pick the ingredients, and i had to picture different solutions in my head.*
-
-*Develop:* I ended up talking one-on-one with my tutor, Ged as I was really stuck to come up with solutions. He gave me the idea of a spinning wheel and arrow that is attached to a motor, and depending on how long the wheel spins for, it could give me different ingredients each time. He was talking about Masterchef, so I took that as another inspiration. He also helped me to come up with the final code, so that gave me a lot to work with. 
-
-*Deliever:* I ended up having a working code and a design that worked for this idea. So I was confident and ready to start finishing this project.
-
 ## Final code ##
 
 ![Image](code.png)
 
 ## Design process discussion ##
-<!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
 
+![Image](doublediamond.png)
+
+*Discover: I had to discover ways to achieve my idea of making a fun game involving a random picking of ingredients. I really struggled to think of many different ways to achieve this idea.*
+
+*Define: I had to really think of how to design the list or the type of machine that would pick the ingredients, and i had to picture different solutions in my head.*
+
+*Develop: I ended up talking one-on-one with my tutor, Ged as I was really stuck to come up with solutions. He gave me the idea of a spinning wheel and arrow that is attached to a motor, and depending on how long the wheel spins for, it could give me different ingredients each time. He was talking about Masterchef, so I took that as another inspiration. He also helped me to come up with the final code, so that gave me a lot to work with.* 
+
+*Deliever: I ended up having a working code and a design that worked for this idea. So I was confident and ready to start finishing this project.*
 
 ## Reflection ##
 
