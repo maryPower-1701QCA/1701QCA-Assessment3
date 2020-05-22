@@ -64,10 +64,9 @@ https://makecode.microbit.org/projects/heads-guess
 
 ### Final design concept ###
 
-*The final descign concept (the one that I will actually be using thorughout this project) is to have the machine pick a random, different ingredient each time throught the use of a Lucky/Spinning Wheel. This idea was inspired by TV shows such as Masterchef and Wheel of Fortune. I am planning to make a cardboard wheel with a variety of ingredients and then attach it to a motor. I am also going to make an arrow as well and then program the motor so that the arrow lands on a different ingredient each time. The speed of the motor will be controlled by far the buttons on the actual microbit are pushed and for how long.*
+*The final design concept (the one that I will actually be using throughout this project) is to have the machine pick a random, different ingredient each time through the use of a Lucky/Spinning Wheel. This idea was inspired by TV shows such as Masterchef and Wheel of Fortune. I am planning to make a cardboard wheel with a variety of ingredients and then attach it to a motor. I am also going to make an arrow as well and then program the motor so that the arrow lands on a different ingredient each time. The speed of the motor will be controlled by far the buttons on the actual microbit are pushed and for how long.*
 
 ### Interaction flowchart ###
-<!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
 
 ![Image](realdiagram.png)
 
@@ -122,6 +121,6 @@ https://makecode.microbit.org/projects/heads-guess
 
 *Things I have found useful from other sources include the use of the microbit buttons, the idea of a game, and the idea of using the motor.*
 
-What parts of your project do you feel are novel? This is IMPORTANT to help justify a key component of the assessment rubric.
+*The main part that i feel is novel is the actual wheel itself. I had originally made it out of cardboard and acryll paint however, when I attached it to the motor with quite a bit of blue-tack, i found that it wasn't spinning as there was so much weight on it. So I ended up making the wheel out of paper, textas, and colouring pencils, and I used less blue-tack. I found out that it helped more as paper is lighter than cardboard, so it was able to spin easily.* 
 
-What might be an interesting extension of this project? In what other contexts might this project be used? 
+*Another context that this project could be used is that somebody could use this to decide what ingredients they should put in a random meal of the day and make it more interesting, rather than a game or online challenge. Another extension could be that you can add meals instead of ingredients and you have to recreate a randomly-selected meal in a certain timeframe.*
