@@ -69,10 +69,38 @@ https://makecode.microbit.org/projects/heads-guess
 ### Interaction flowchart ###
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
 
-![Image](diagram.png)
+![Image](realdiagram.png)
 
 ## Process documentation ##
-<!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
+
+## Materials Used ##
+
+- Paper
+- Colouring Pencils
+- Textas
+- Microbit
+- Breadboard
+- Motor
+- Bluetack
+- Transistor
+- 2.2kΩ Resistor
+- M/F Jumper Wires
+
+## Code Samples ##
+
+![Image](code1.png)
+
+![Image](code2.png)
+
+![Image](code3.png)
+
+![Image](code4.png)
+
+## Inspiration Images ##
+
+![Image](spinnerwheel.jpg)
+
+*Idea behind the wheel...*
 
 ## Final code ##
 
@@ -82,20 +110,18 @@ https://makecode.microbit.org/projects/heads-guess
 
 ![Image](doublediamond.png)
 
-*Discover: I had to discover ways to achieve my idea of making a fun game involving a random picking of ingredients. I really struggled to think of many different ways to achieve this idea.*
+*Discover:* I had to discover ways to achieve my idea of making a fun game involving a random picking of ingredients. I really struggled to think of many different ways to achieve this idea.
 
-*Define: I had to really think of how to design the list or the type of machine that would pick the ingredients, and i had to picture different solutions in my head.*
+*Define:* I had to really think of how to design the list or the type of machine that would pick the ingredients, and i had to picture different solutions in my head.
 
-*Develop: I ended up talking one-on-one with my tutor, Ged as I was really stuck to come up with solutions. He gave me the idea of a spinning wheel and arrow that is attached to a motor, and depending on how long the wheel spins for, it could give me different ingredients each time. He was talking about Masterchef, so I took that as another inspiration. He also helped me to come up with the final code, so that gave me a lot to work with.* 
+*Develop:* I ended up talking one-on-one with my tutor, Ged as I was really stuck to come up with solutions. He gave me the idea of a spinning wheel and arrow that is attached to a motor, and depending on how long the wheel spins for, it could give me different ingredients each time. He was talking about Masterchef, so I took that as another inspiration. He also helped me to come up with the final code, so that gave me a lot to work with. 
 
-*Deliever: I ended up having a working code and a design that worked for this idea. So I was confident and ready to start finishing this project.*
+*Deliever:* I ended up having a working code and a design that worked for this idea. So I was confident and ready to start finishing this project.
 
 ## Reflection ##
 
-<!--- Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.
-
-What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
+*Things I have found useful from other sources include the use of the microbit buttons, the idea of a game, and the idea of using the motor.*
 
 What parts of your project do you feel are novel? This is IMPORTANT to help justify a key component of the assessment rubric.
 
-What might be an interesting extension of this project? In what other contexts might this project be used? --->
+What might be an interesting extension of this project? In what other contexts might this project be used? 
